@@ -29,6 +29,10 @@ notes are remembered across browser sessions
 
 ![screenshot of Note Taker](./Note_Taker.png)
 
+## Heroku deployment
+
+https://floating-lowlands-27636.herokuapp.com/
+
 ## Questions
 
 If you have any questions, contact me.
