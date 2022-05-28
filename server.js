@@ -33,7 +33,7 @@ if (need_to_write) {
 }
 
 /* Serve images, css files, js files from the public directory.  */
-app.use(express.static('../front_end/public'));
+app.use(express.static('./front_end/public'));
 
 /* Parse incoming requests with JSON payloads.  */
 app.use(express.json());
@@ -41,7 +41,7 @@ app.use(express.json());
 /* If the front end requests "/notes", send it the notes.html file.  
  */
 app.get("/notes", (req, res) =>
-  res.sendFile(path.join(__dirname, "../front_end/public/notes.html")));
+  res.sendFile(path.join(__dirname, "./front_end/public/notes.html")));
 
 /* If the front end requests "api/notes", send it the existing
  * notes as a JSON-formatted string.  */
