@@ -22,7 +22,13 @@ to remember future tasks
 GNU AGPLv3
 
 ## Features
+
 notes are remembered across browser sessions
+
+## Screenshot
+
+![screenshot of Note Taker](./Note_Taker.png)
+
 ## Questions
 
 If you have any questions, contact me.
