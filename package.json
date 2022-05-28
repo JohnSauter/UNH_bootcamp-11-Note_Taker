@@ -12,6 +12,7 @@
   },
   "author": "John Sauter",
   "license": "AGPL-3.0-or-later",
+  "start": "server.js",
   "dependencies": {
     "express": "^4.18.1",
     "jest": "^28.1.0",
