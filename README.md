@@ -12,18 +12,25 @@ write and save notes
 
 ## Installation
 
-npm install note_taker
+- git clone https://github.com/JohnSauter/UNH_bootcamp-11-Note_Taker
+- cd UNH_bootcamp-11-Note_Taker
+- npm install
 
 ## Usage
 
-to remember future tasks
+- node server.js
+- open a browser to http://localhost:3001 
+
+Alternatively, open a browser to https://floating-lowlands-27636.herokuapp.com/
+
 
 ## License
+
 GNU AGPLv3
 
 ## Features
 
-notes are remembered across browser sessions
+When run locally, notes are remembered across browser sessions.
 
 ## Screenshot
 
