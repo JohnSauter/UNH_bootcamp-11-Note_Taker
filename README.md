@@ -30,7 +30,7 @@ GNU AGPLv3
 
 ## Features
 
-When run locally, notes are remembered across browser sessions.
+When run locally, notes are remembered across browser sessions.cd 
 
 ## Screenshot
 
